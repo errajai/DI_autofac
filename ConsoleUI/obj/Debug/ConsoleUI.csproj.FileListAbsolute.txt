@@ -1,0 +1,23 @@
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\DemoLibrary.dll
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\DemoLibrary.pdb
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\Autofac.dll
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.dll
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.pdb
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\Autofac.pdb
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\Autofac.xml
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Projects\.Net Framework\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.pdb
